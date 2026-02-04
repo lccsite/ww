@@ -197,7 +197,7 @@ footer {
   background: rgba(0, 0, 0, 0.6);
   padding: 40px 45px;
   max-width: 650px;
-  border-radius: 32px;
+  border-radius: 45px;
   box-shadow: 0 25px 50px rgba(0, 0, 0, 0.55);
   backdrop-filter: blur(6px);
 }
