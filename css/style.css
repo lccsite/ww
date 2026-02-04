@@ -206,3 +206,21 @@ footer {
   display: inline-block;
   margin-bottom: 20px;
 }
+
+@media (max-width: 768px) {
+  .hero {
+    padding-left: 0;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .hero-text {
+    margin: 0 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .titulo-destaque {
+    font-size: 26px;
+  }
+}
